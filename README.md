@@ -74,7 +74,9 @@ book,kitap
 
 ## Screenshots
 
-*(Add screenshots here to showcase your application.)*
+![image](https://github.com/user-attachments/assets/5924a802-89d7-43dd-b0fb-0851a5fa742f)
+
+![image](https://github.com/user-attachments/assets/9694abae-6c9e-4579-be5d-8fc99c975077)
 
 ## Contributions
 
